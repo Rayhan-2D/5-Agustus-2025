@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BelanjaBarang {
+public class BelanjaBarangRayhan {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Masukkan Nama Barang 1 ");
@@ -21,3 +21,4 @@ public class BelanjaBarang {
 
     }
 }
+
